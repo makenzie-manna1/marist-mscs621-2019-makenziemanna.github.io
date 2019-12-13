@@ -9,6 +9,6 @@ Currently, it does not cost users to register and use an account within the appl
 However, this does not mean there is no margin for potential profits. As traffic and activity on the site increases, larger corporations will start to take notice. This could mean partnerships with tech giants such as Apple or Google. Tech corporations are always interested in ways to connect users and provide useful services. 
 
 ## Costs
-As with sales, costs will increase as traffic and activity increases. With the application currently running on ElasticBeanstalk's free tier, this allows the costs to be nothing to maintain the site. However, when demand increases, the processing power required to run the application will also increase and eventually exceed the free tier limits. The free tier limit is 750 hours a month of free credit. After exceeding that 750 hours, the second cheapest pricing tier is $0.0255 per hour. 
+As with sales, costs will increase as traffic and activity increases. With the application currently running on ElasticBeanstalk's free tier, this allows the cost to be nothing to maintain the site. However, when demand increases, the processing power required to run the application will also increase and eventually exceed the free tier limits. The free tier limit is 750 hours a month of free credit. After exceeding that 750 hours, the second cheapest pricing tier is $0.0255 per hour. 
 
 ## Visit the application [here](http://mscs621-addressbook-env-2.gv8qfetpmj.us-east-2.elasticbeanstalk.com/)!
