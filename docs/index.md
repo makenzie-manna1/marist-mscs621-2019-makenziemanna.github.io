@@ -1,7 +1,7 @@
 # Address Book Application
 
 ## Technology Intro
-This application runs on a flask server and was developed in python3. It utilizes a sqlite3 database to store user credentials as well as user content. Docker was utilized to containerize the application and then pushed to Docker Hub. Additionally, the Docker container is hosted on AWS Cloud Services - ElasticBeanstalk for public access. 
+Address Book was built using a flask application framework, it runs on an ubuntu:18.04 server and was developed in python3. It utilizes a sqlite3 database to store user credentials as well as user content. Docker was utilized to containerize the application and then pushed to Docker Hub. Additionally, the Docker container is hosted on AWS Cloud Services - ElasticBeanstalk for public access. 
 
 ## Marketing & Sales
 This application is best suited for the demographic that resists the upgrade to smart phones, but cannot keep track of that address book they have at home. It provides an accessible site to view any contacts you may have use for. It cannot be misplaced and it will not be destroyed. Although the market for the application is currently small and less clear, there is imense room for growth within the application to utilize more functionality and broaden its target audience. <br /><br />
